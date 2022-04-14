@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+a {
+  color: #874356;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #874356;
+  line-height: 2;
+
+}
+
+h2 {
+    margin: 0;
+    font-size: 2.2rem;
+    color: #874356;
+    font-weight: normal;
+}
+p {
+  margin: 0;
+}
+
+hr {
+  border-style: none;
+  border-color: lightgray;
+  border-top-style: dotted;
+  border-width: 10px;
+  height: 0px;
+  margin: 50px auto 50px auto;
+
+  width: 5%
+}
+
+.topContainer {
+  background-color: #F6E7D8;
+  padding-top: 100px;
+  position: relative;
+
+
+}
+
+.profile {
+  margin: 25px auto 25px auto;
+
+}
+
+.middleContainer {
+
+}
+
+.bottomContainer {
+  background-color: #C65D7B;
+  padding: 50px;
+  spacing: 20px;
+  text-align: center;
+
+
+}
+
+.footer-link {
+  color: #874356;
+  margin: 0px 15px 15px 25px;
+}
+
+.footer-link:hover {
+  color: #F68989;
+}
+
+
+.bottomCloud{
+  position: absolute;
+  left: 600px;
+  bottom: 280px;
+
+}
+
+.topCloud{
+  position: absolute;
+  right: 560px;
+  top: 130px;
+}
+
+.pythonIcon{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+
+}
+
+.htmlLogo {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.profileImage {
+  width: 15%
+}
+.skill-row {
+  width: 50%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 90px auto 80px auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #C65D7B;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F68989;
+  text-decoration: none;
+}
